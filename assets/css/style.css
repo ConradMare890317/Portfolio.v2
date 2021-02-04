@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #ffffff9b;
+  color: #000000ce;
   font-weight: 600;
 }
 
@@ -70,7 +70,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #43402a;
   line-height: 28px;
 }
 
@@ -331,7 +331,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #403112;
 }
 
 #about .div-img-bg .about-img img {
@@ -388,7 +388,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #5b4220;
   line-height: 44px;
 }
 
@@ -452,7 +452,7 @@ nav ul li a {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #484643;
 }
 
 #portfolio #portfolio-flters li:last-child {
