@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #898989;
+  color: #000000;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -70,7 +70,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #43402a;
+  color: #13120b;
   line-height: 28px;
 }
 
@@ -331,7 +331,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #403112;
+  border: 20px solid #754a00d0;
 }
 
 #about .div-img-bg .about-img img {
@@ -388,7 +388,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #5b4220;
+  color: #3e2d15;
   line-height: 44px;
 }
 
